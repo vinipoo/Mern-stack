@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Mern-stack/static/js/main.090fdc36.chunk.js",
+    "main.js.map": "/Mern-stack/static/js/main.090fdc36.chunk.js.map",
+    "runtime~main.js": "/Mern-stack/static/js/runtime~main.e8471ea0.js",
+    "runtime~main.js.map": "/Mern-stack/static/js/runtime~main.e8471ea0.js.map",
+    "static/css/2.0da02d22.chunk.css": "/Mern-stack/static/css/2.0da02d22.chunk.css",
+    "static/js/2.b5d4fe44.chunk.js": "/Mern-stack/static/js/2.b5d4fe44.chunk.js",
+    "static/js/2.b5d4fe44.chunk.js.map": "/Mern-stack/static/js/2.b5d4fe44.chunk.js.map",
+    "index.html": "/Mern-stack/index.html",
+    "precache-manifest.2087e4085f2a1d3fee41644bdc2b7b6b.js": "/Mern-stack/precache-manifest.2087e4085f2a1d3fee41644bdc2b7b6b.js",
+    "service-worker.js": "/Mern-stack/service-worker.js",
+    "static/css/2.0da02d22.chunk.css.map": "/Mern-stack/static/css/2.0da02d22.chunk.css.map"
+  }
+}
